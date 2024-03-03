@@ -11,7 +11,8 @@ Usage
 Clone the repository to your local machine.     
 Build the program using Go compiler. 
 Run the executable.   
-Press the defined keys to switch display settings.
+Press the  ` key to switch display to second screen only mod  and F2 for pc only mod   
+or you can set your own keys
 
 
 Dependencies
